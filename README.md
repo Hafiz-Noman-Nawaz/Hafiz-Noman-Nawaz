@@ -92,22 +92,27 @@ I care about products that feel finished: fast, well-architected, and considered
 
 <h2 align="center">Selected Work</h2>
 
-### Zemotify
-React-based interface for an AI-powered developer workspace — Zustand state management, memoized components, Server-Sent Events (SSE), and a streaming UI tuned for smooth ~60 FPS interaction.
+### [Atlas](https://github.com/Hafiz-Noman-Nawaz/Atlas) · [Live](https://www.zeoatlas.tech/)
+Machine learning workspace — Jupyter notebooks, Python, and TypeScript tooling, with a deployed web interface.
+
+`Jupyter` `Python` `TypeScript`
+
+### [Zenkai](https://github.com/Hafiz-Noman-Nawaz/zenkai) · [Live](https://zenkai-nu.vercel.app/)
+AI-powered developer workspace — React frontend with Zustand state management, memoized components, Server-Sent Events (SSE), and a streaming UI tuned for smooth ~60 FPS interaction.
 
 `React` `Zustand` `SSE`
 
-### Genius Fixers
-Operations dashboard for managing service business workflows — reusable component architecture, searchable paginated data tables, modal-driven forms with client-side validation, and REST API integration for clients, bookings, and financial records.
-
-`React` `Next.js` `REST APIs`
-
-### [Zashas Collections](https://github.com/Hafiz-Noman-Nawaz/zashas)
+### [Zashas Collections](https://github.com/Hafiz-Noman-Nawaz/zashas) · [Live](https://zashas.vercel.app/)
 Next.js ecommerce storefront built for performance — dynamic product catalogs with multi-parameter filtering, authentication with REST-backed inventory validation, full checkout flow, and Cloudinary-powered image delivery. **98+ Lighthouse Performance score · CLS below 0.05**
 
 `Next.js` `Cloudinary` `REST APIs`
 
-### [SoloNomous Labs](https://github.com/Hafiz-Noman-Nawaz/SoloNomous_Labs)
+### [Noman Nawaz](https://github.com/Hafiz-Noman-Nawaz/Noman_Nawaz) · [Live](https://www.nouman-nawaz.dev/)
+My personal portfolio website — projects, skills, and contact, deployed on Vercel.
+
+`JavaScript` `HTML` `CSS`
+
+### [SoloNomous Labs](https://github.com/Hafiz-Noman-Nawaz/SoloNomous_Labs) · [Live](https://solo-nomous-labs.vercel.app/)
 My personal technology studio — building web products, AI-powered applications, and automation tooling.
 
 `Full-Stack` `AI` `Automation`
