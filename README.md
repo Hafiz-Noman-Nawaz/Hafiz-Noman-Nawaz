@@ -1,29 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:2d2b55&height=200&section=header&text=Nouman%20Nawaz&fontSize=52&fontColor=e8e8ff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Crafting%20AI-Native%20Software&descAlignY=58&descSize=17&descColor=9d9dd6" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:2d2b55&height=190&section=header&text=Nouman%20Nawaz&fontSize=50&fontColor=e8e8ff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Crafting%20AI-Native%20Software&descAlignY=58&descSize=16&descColor=9d9dd6" width="100%" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&center=true&vCenter=true&width=560&height=45&lines=Building+production-grade+web+applications;Integrating+AI+%26+Machine+Learning+into+real+products;Full-Stack+%E2%86%92+ML+%E2%86%92+Agentic+AI&color=8B8BF5&background=00000000" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=2800&pause=1200&center=true&vCenter=true&width=580&height=40&lines=Building+production-grade+web+applications;Integrating+AI+%26+Machine+Learning+into+real+products;Full-Stack+%E2%86%92+ML+%E2%86%92+Agentic+AI&color=8B8BF5&background=00000000" alt="Typing SVG" />
 
 <br /><br />
 
-<a href="https://www.nouman-nawaz.dev/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=for-the-badge&logoColor=white&labelColor=0d0d0d&color=1a1a2e" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/noman-nawaz-a07015289">
-  <img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=8B8BF5&labelColor=0d0d0d&color=1a1a2e" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Hafiz-Noman-Nawaz">
-  <img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=8B8BF5&labelColor=0d0d0d&color=1a1a2e" alt="GitHub" />
-</a>
-<a href="mailto:[EMAIL]">
-  <img src="https://img.shields.io/badge/CONTACT-0d0d0d?style=for-the-badge&logoColor=white&labelColor=0d0d0d&color=1a1a2e" alt="Contact" />
-</a>
+<a href="https://www.nouman-nawaz.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=for-the-badge&logoColor=white&labelColor=0d0d0d&color=1a1a2e" alt="Portfolio" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/noman-nawaz-a07015289"><img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=8B8BF5&labelColor=0d0d0d&color=1a1a2e" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://github.com/Hafiz-Noman-Nawaz"><img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=8B8BF5&labelColor=0d0d0d&color=1a1a2e" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="mailto:[EMAIL]"><img src="https://img.shields.io/badge/CONTACT-0d0d0d?style=for-the-badge&logoColor=white&labelColor=0d0d0d&color=1a1a2e" alt="Contact" /></a>
 
 </div>
 
-<br />
+<br /><br />
 
 <div align="center">
 
@@ -31,11 +23,15 @@
 
 </div>
 
-Full-Stack Developer and Computer Science student building complete, production-grade web applications — from authentication and APIs to dashboards and deployment. Currently extending that foundation with Machine Learning and AI integrations, working toward agentic systems that reason and act, not just respond.
+<br />
+
+Full-Stack Developer and Computer Science student building complete, production-grade web applications — from authentication and APIs to dashboards and deployment.
+
+Currently extending that foundation with Machine Learning and AI integrations, working toward agentic systems that reason and act, not just respond.
 
 I care about products that feel finished: fast, well-architected, and considered down to the last UI detail.
 
-<br />
+<br /><br />
 
 <div align="center">
 
@@ -43,30 +39,27 @@ I care about products that feel finished: fast, well-architected, and considered
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<br />
 
 **Full-Stack Applications**
-End-to-end products — auth, REST APIs, databases, dashboards, real-time interfaces, deployment.
+End-to-end products — authentication, REST APIs, databases, dashboards, real-time interfaces, deployment.
+
+<br />
 
 **SaaS Products**
 Multi-tenant systems designed for maintainability and scale.
 
-</td>
-<td width="50%" valign="top">
+<br />
 
 **AI / ML Integrations**
-Practical ML and AI woven into real product workflows, not bolted on.
+Practical machine learning and AI woven into real product workflows, not bolted on.
+
+<br />
 
 **Automation & Developer Tools**
 Internal tooling and automation that removes repetitive work.
 
-</td>
-</tr>
-</table>
-
-<br />
+<br /><br />
 
 <div align="center">
 
@@ -74,68 +67,63 @@ Internal tooling and automation that removes repetitive work.
 
 </div>
 
-<table width="100%">
-<tr>
-<td valign="top" width="33%">
+<br />
+
+<div align="center">
 
 **Languages**
+<br />
+<img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=3776AB" />
 
-<img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E" /><br/>
-<img src="https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=3178C6" /><br/>
-<img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=3776AB" />
-
-</td>
-<td valign="top" width="33%">
+<br /><br />
 
 **Frontend**
+<br />
+<img src="https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-1a1a2e?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Framer_Motion-1a1a2e?style=for-the-badge&logo=framer&logoColor=0055FF" />
 
-<img src="https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
-<img src="https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=38BDF8" /><br/>
-<img src="https://img.shields.io/badge/Framer_Motion-1a1a2e?style=flat-square&logo=framer&logoColor=0055FF" />
-
-</td>
-<td valign="top" width="33%">
+<br /><br />
 
 **Backend & Data**
+<br />
+<img src="https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express.js-1a1a2e?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 
-<img src="https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=339933" /><br/>
-<img src="https://img.shields.io/badge/Express.js-1a1a2e?style=flat-square&logo=express&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=47A248" /><br/>
-<img src="https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=4169E1" />
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
+<br /><br />
 
 **ML / Data**
+<br />
+<img src="https://img.shields.io/badge/NumPy-1a1a2e?style=for-the-badge&logo=numpy&logoColor=013243" />
+<img src="https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/Machine_Learning-1a1a2e?style=for-the-badge&logoColor=white" />
 
-<img src="https://img.shields.io/badge/NumPy-1a1a2e?style=flat-square&logo=numpy&logoColor=013243" /><br/>
-<img src="https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=150458" /><br/>
-<img src="https://img.shields.io/badge/Machine_Learning-1a1a2e?style=flat-square&logoColor=white" />
-
-</td>
-<td valign="top" width="33%">
+<br /><br />
 
 **Infrastructure**
+<br />
+<img src="https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/REST_APIs-1a1a2e?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Git_%2F_GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED" /><br/>
-<img src="https://img.shields.io/badge/REST_APIs-1a1a2e?style=flat-square&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Git_%2F_GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white" />
-
-</td>
-<td valign="top" width="33%">
-
-**Direction**
-
-Full-Stack → ML → Deep Learning → AI Applications → Agentic AI
-
-</td>
-</tr>
-</table>
+</div>
 
 <br />
+
+<div align="center">
+
+**Direction**
+<br />
+Full-Stack&nbsp;→&nbsp;Machine Learning&nbsp;→&nbsp;Deep Learning&nbsp;→&nbsp;AI Applications&nbsp;→&nbsp;Agentic AI
+
+</div>
+
+<br /><br />
 
 <div align="center">
 
@@ -143,11 +131,9 @@ Full-Stack → ML → Deep Learning → AI Applications → Agentic AI
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="100%">
+<br />
 
-### Zemotify
+**Zemotify**
 React-based interface for an AI-powered developer workspace.
 
 - Zustand for state management
@@ -157,12 +143,13 @@ React-based interface for an AI-powered developer workspace.
 
 `React` `Zustand` `SSE`
 
-</td>
-</tr>
-<tr>
-<td width="100%">
+<br />
 
-### Genius Fixers
+---
+
+<br />
+
+**Genius Fixers**
 Operations dashboard for managing service business workflows.
 
 - Built with React / Next.js
@@ -173,63 +160,40 @@ Operations dashboard for managing service business workflows.
 
 `React` `Next.js` `REST APIs`
 
-</td>
-</tr>
-<tr>
-<td width="100%">
+<br />
 
-### [Zashas Collections](https://github.com/Hafiz-Noman-Nawaz/zashas)
+---
+
+<br />
+
+**[Zashas Collections](https://github.com/Hafiz-Noman-Nawaz/zashas)**
 Next.js ecommerce storefront built for performance.
 
 - Dynamic product catalogs with multi-parameter filtering
 - Authentication and REST-backed inventory validation
-- Full checkout flow
-- Cloudinary-powered image delivery
+- Full checkout flow with Cloudinary-powered image delivery
 - **98+ Lighthouse Performance score · CLS below 0.05**
 
 `Next.js` `Cloudinary` `REST APIs`
 
-</td>
-</tr>
-<tr>
-<td width="100%">
+<br />
 
-### SoloNomous Labs
+---
+
+<br />
+
+**SoloNomous Labs**
 My personal technology studio — building web products, AI-powered applications, and automation tooling.
 
 `Full-Stack` `AI` `Automation`
 
-</td>
-</tr>
-</table>
-
-<br />
-
-<div align="center">
-
-### From the Repositories
-
-<a href="https://github.com/Hafiz-Noman-Nawaz/AI-Image-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Noman-Nawaz&repo=AI-Image-Generator&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=8b8bf5&icon_color=8b8bf5&text_color=c9c9e8" width="48%" />
-</a>
-<a href="https://github.com/Hafiz-Noman-Nawaz/Atlas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Noman-Nawaz&repo=Atlas&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=8b8bf5&icon_color=8b8bf5&text_color=c9c9e8" width="48%" />
-</a>
-
-<a href="https://github.com/Hafiz-Noman-Nawaz/Genius-Limo-Next-Js">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Noman-Nawaz&repo=Genius-Limo-Next-Js&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=8b8bf5&icon_color=8b8bf5&text_color=c9c9e8" width="48%" />
-</a>
-<a href="https://github.com/Hafiz-Noman-Nawaz/Cash-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Noman-Nawaz&repo=Cash-Management-System&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=8b8bf5&icon_color=8b8bf5&text_color=c9c9e8" width="48%" />
-</a>
-
-</div>
-
-<br />
+<br /><br />
 
 <div align="center">
 
 ### Currently Building / Learning
+
+<br />
 
 <img src="https://img.shields.io/badge/Machine_Learning-1a1a2e?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Deep_Learning-1a1a2e?style=for-the-badge&logoColor=white" />
@@ -239,24 +203,25 @@ My personal technology studio — building web products, AI-powered applications
 
 </div>
 
-<br />
+<br /><br />
 
 <div align="center">
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hafiz-Noman-Nawaz&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=8b8bf5&icon_color=8b8bf5&text_color=c9c9e8" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-Noman-Nawaz&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=8b8bf5&text_color=c9c9e8" width="38%" />
-
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafiz-Noman-Nawaz&theme=radical&hide_border=true&background=0d0d0d&ring=8b8bf5&fire=8b8bf5&currStreakLabel=8b8bf5" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hafiz-Noman-Nawaz&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=8b8bf5&icon_color=8b8bf5&text_color=c9c9e8" width="65%" />
+
+<br /><br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafiz-Noman-Nawaz&theme=radical&hide_border=true&background=0d0d0d&ring=8b8bf5&fire=8b8bf5&currStreakLabel=8b8bf5" width="65%" />
 
 </div>
 
-<br />
+<br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2b55,50:1a1a2e,100:0d0d0d&height=150&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2b55,50:1a1a2e,100:0d0d0d&height=140&section=footer&animation=fadeIn" width="100%" />
 
 <div align="center">
 
