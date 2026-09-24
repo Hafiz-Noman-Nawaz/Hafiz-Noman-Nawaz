@@ -1,46 +1,49 @@
 <div align="center">
 
-<br />
-
-<h1>
-  Noman&nbsp;Nawaz
-</h1>
-
-<p>
-  <sub>Full-Stack Developer · Crafting AI-Native Software</sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:2d2b55&height=200&section=header&text=Nouman%20Nawaz&fontSize=52&fontColor=e8e8ff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Crafting%20AI-Native%20Software&descAlignY=58&descSize=17&descColor=9d9dd6" width="100%" />
 
 <br />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&center=true&vCenter=true&width=560&height=45&lines=Building+production-grade+web+applications;Integrating+AI+%26+Machine+Learning+into+real+products;Full-Stack+%E2%86%92+ML+%E2%86%92+Agentic+AI&color=8B8BF5&background=00000000" alt="Typing SVG" />
+
+<br /><br />
 
 <a href="https://www.nouman-nawaz.dev/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white&labelColor=0d0d0d&color=1a1a2e" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=for-the-badge&logoColor=white&labelColor=0d0d0d&color=1a1a2e" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/noman-nawaz-a07015289">
-  <img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logoColor=white&labelColor=0d0d0d&color=1a1a2e" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=8B8BF5&labelColor=0d0d0d&color=1a1a2e" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Hafiz-Noman-Nawaz">
+  <img src="https://img.shields.io/badge/GITHUB-0d0d0d?style=for-the-badge&logo=github&logoColor=8B8BF5&labelColor=0d0d0d&color=1a1a2e" alt="GitHub" />
 </a>
 <a href="mailto:[EMAIL]">
   <img src="https://img.shields.io/badge/CONTACT-0d0d0d?style=for-the-badge&logoColor=white&labelColor=0d0d0d&color=1a1a2e" alt="Contact" />
 </a>
 
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a2e&height=2&section=header" width="100%" />
-
 </div>
 
 <br />
 
-## About
+<div align="center">
+
+### About
+
+</div>
 
 Full-Stack Developer and Computer Science student building complete, production-grade web applications — from authentication and APIs to dashboards and deployment. Currently extending that foundation with Machine Learning and AI integrations, working toward agentic systems that reason and act, not just respond.
 
-I care about products that feel finished: fast, well-architected, and considered down to the UI details.
+I care about products that feel finished: fast, well-architected, and considered down to the last UI detail.
 
 <br />
 
-## What I Build
+<div align="center">
 
-<table>
+### What I Build
+
+</div>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -65,9 +68,13 @@ Internal tooling and automation that removes repetitive work.
 
 <br />
 
-## Tech Stack
+<div align="center">
 
-<table>
+### Tech Stack
+
+</div>
+
+<table width="100%">
 <tr>
 <td valign="top" width="33%">
 
@@ -130,11 +137,13 @@ Full-Stack → ML → Deep Learning → AI Applications → Agentic AI
 
 <br />
 
-## Selected Work
+<div align="center">
 
-<br />
+### Selected Work
 
-<table>
+</div>
+
+<table width="100%">
 <tr>
 <td width="100%">
 
@@ -169,7 +178,7 @@ Operations dashboard for managing service business workflows.
 <tr>
 <td width="100%">
 
-### Zashas Collections
+### [Zashas Collections](https://github.com/Hafiz-Noman-Nawaz/zashas)
 Next.js ecommerce storefront built for performance.
 
 - Dynamic product catalogs with multi-parameter filtering
@@ -196,7 +205,31 @@ My personal technology studio — building web products, AI-powered applications
 
 <br />
 
-## Currently Building / Learning
+<div align="center">
+
+### From the Repositories
+
+<a href="https://github.com/Hafiz-Noman-Nawaz/AI-Image-Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Noman-Nawaz&repo=AI-Image-Generator&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=8b8bf5&icon_color=8b8bf5&text_color=c9c9e8" width="48%" />
+</a>
+<a href="https://github.com/Hafiz-Noman-Nawaz/Atlas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Noman-Nawaz&repo=Atlas&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=8b8bf5&icon_color=8b8bf5&text_color=c9c9e8" width="48%" />
+</a>
+
+<a href="https://github.com/Hafiz-Noman-Nawaz/Genius-Limo-Next-Js">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Noman-Nawaz&repo=Genius-Limo-Next-Js&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=8b8bf5&icon_color=8b8bf5&text_color=c9c9e8" width="48%" />
+</a>
+<a href="https://github.com/Hafiz-Noman-Nawaz/Cash-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Noman-Nawaz&repo=Cash-Management-System&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=8b8bf5&icon_color=8b8bf5&text_color=c9c9e8" width="48%" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+### Currently Building / Learning
 
 <img src="https://img.shields.io/badge/Machine_Learning-1a1a2e?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Deep_Learning-1a1a2e?style=for-the-badge&logoColor=white" />
@@ -204,14 +237,16 @@ My personal technology studio — building web products, AI-powered applications
 <img src="https://img.shields.io/badge/Agentic_AI-1a1a2e?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/System_Design-1a1a2e?style=for-the-badge&logoColor=white" />
 
-<br /><br />
+</div>
 
-## GitHub Stats
+<br />
 
 <div align="center">
 
+### GitHub Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=Hafiz-Noman-Nawaz&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=8b8bf5&icon_color=8b8bf5&text_color=c9c9e8" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-Noman-Nawaz&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=8b8bf5&text_color=c9c9e8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-Noman-Nawaz&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=8b8bf5&text_color=c9c9e8" width="38%" />
 
 <br />
 
@@ -221,14 +256,12 @@ My personal technology studio — building web products, AI-powered applications
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a2e&height=2&section=header" width="100%" />
-
-<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2b55,50:1a1a2e,100:0d0d0d&height=150&section=footer&animation=fadeIn" width="100%" />
 
 <div align="center">
 
 **Let's build something worth shipping.**
 
-[Portfolio](https://www.nouman-nawaz.dev/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/noman-nawaz-a07015289) &nbsp;·&nbsp; [\[EMAIL\]](mailto:[EMAIL])
+[Portfolio](https://www.nouman-nawaz.dev/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/noman-nawaz-a07015289) &nbsp;·&nbsp; [GitHub](https://github.com/Hafiz-Noman-Nawaz) &nbsp;·&nbsp; [\[EMAIL\]](mailto:[EMAIL])
 
 </div>
